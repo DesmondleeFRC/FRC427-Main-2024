@@ -16,5 +16,5 @@
   > Utilties for the DriverController and modes
     Utilties for the IOU
     Utilties for Leds
-    Utilies for Vision
+    Utilties for Vision
     l
